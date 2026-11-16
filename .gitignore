@@ -1,0 +1,14 @@
+# Credenciais reais
+.env
+# Uploads de usuarios
+assets/uploads/*
+!assets/uploads/.gitkeep
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
